@@ -1,1 +1,1 @@
-#Game GD Script - Name: Formula-Zoom
+Game GD Script - Name: Formula-Zoom
