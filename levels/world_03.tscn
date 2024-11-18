@@ -367,6 +367,7 @@ next_level = "res://levels/tela_win_go.tscn"
 
 [node name="player" parent="." instance=ExtResource("7_lr0l1")]
 position = Vector2(12, 205)
+position = Vector2(0, 70)
 
 [node name="ParallaxBackground" type="ParallaxBackground" parent="."]
 
